@@ -1,0 +1,116 @@
+{
+  "Hi": {
+    "1": "Salom"
+  },
+  "Home": {
+    "1": "Asosiy"
+  },
+  "Services": {
+    "1": "Xizmatlar"
+  },
+  "Skills": {
+    "1": "Ko'nikmalar"
+  },
+  "Projects": {
+    "1": "Proektlar"
+  },
+  "Contact": {
+    "1": "Aloqa"
+  },
+  "Content1": {
+    "1": "Salom, Men Bahrom Olimxo'jayevman"
+  },
+  "Content2": {
+    "1": "Men *full-stack veb-sayt va mobil dasturchi va UI/UX Javascript mutaxassisiman."
+  },
+  "Explore": {
+    "1": "Ko'rish"
+  },
+  "MyServices": {
+    "1": "Mening xizmatlarim"
+  },
+  "Services1": {
+    "1": "Quyida men hozir sizga nimani taklif qila oladiganlarim"
+  },
+  "Webdevelopment": {
+    "1": "Web dasturlash"
+  },
+  "Webdevelopment1": {
+    "1": "Men narsalarni noldan kodlashni va g'oyalarni brauzer hayotiga tatbiq etishni yoqtiraman."
+  },
+  "WebDesign": {
+    "1": "Web Dizayn"
+  },
+  "WebDesign1": {
+    "1": "Men oddiy kontent strukturasi, sof dizaynni qadrlayman."
+  },
+  "Mobileapps": {
+    "1": "Mobile apps"
+  },
+  "Mobileapps1": {
+    "1": "Har bir biznesning o'ziga xos muammolari bor, ularni to'g'ri dasturiy yechim bilan hal qilish mumkin. Shaxsan men ishonamanki, dasturiy ta'minot intuitiv, sodda bo'lishi kerak va bu biznes muammolarini hal qilishi kerak. Men o'z mijozlarim bilan bog'liq muammolarni hal qilish uchun eng yaxshi echimlarni topishga harakat qilaman."
+  },
+  "Skills1": {
+    "1": "Mana men bilganlarim"
+  },
+  "Projects1": {
+    "1": "Loyiha namunalari"
+  },
+  "Hint1": {
+    "1": "Maslahat: Siz to'plam orqali filtrlashingiz mumkin"
+  },
+  "Contact1": {
+    "1": "Aloqa ma'lumotlari"
+  },
+  "Contact2": {
+    "1": "Aloqa formasi"
+  },
+  "Hint2": {
+    "1": "Formani to'ldiring, men 72 soatdan keyin sizga javob beraman. (Agar siz tez bog'lanmoqchi bo'lsangiz, Telegramda @bakhr0mkhan ga DM yuboring)"
+  },
+  "Submit": {
+    "1": "Yuborish"
+  },
+  "FirstName": {
+    "1": "Ism"
+  },
+  "LastName": {
+    "1": "Familiya"
+  },
+  "Message": {
+    "1": "Xabar"
+  },
+  "Success": {
+    "1": "Muvaffaqqiyatli"
+  },
+  "Project1": {
+    "1": "Do'kon uchun admin websayti"
+  },
+  "Project2": {
+    "1": "'Uy izlash' mobil ilovasi"
+  },
+  "Project3": {
+    "1": "Mebel do'koni uchun websayt"
+  },
+  "Project4": {
+    "1": "Restoran uchun websayt"
+  },
+  "TechStack": {
+    "1": "Texnologiya steki"
+  },
+  "Visit": {
+    "1": "Ko'rish"
+  },
+  "p1desc": {
+    "1": "Administratorlar va savdogarlar uchun onlayn-do'konni boshqarish uchun to'liq tilli ko'p tilli veb-sayt. Maxfiylik sababli kod ko'rsatilmaydi"
+  },
+  "p2desc": {
+    "1": "React Native-da o'rnatilgan to'liq funktsional ilova, bu foydalanuvchilarga uyda qidirish va joylashtirish imkonini beradi. Maxfiylik sababli kod ko'rsatilmaydi. Biroq, siz qisqa vaqt ichida dasturni yuklab olishingiz mumkin"
+  },
+  "p3desc": {
+    "1": "Mebel do'koni veb-sayti. Shabloni erkin ishlating"
+  },
+  "p4desc": {
+    "1": "Har qanday restoran do'koni uchun veb-sayt. Shabloni erkin ishlating"
+  }
+}

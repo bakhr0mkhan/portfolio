@@ -1,0 +1,116 @@
+{
+  "Hi": {
+    "1": "Hi"
+  },
+  "Home": {
+    "1": "Home"
+  },
+  "Services": {
+    "1": "Services"
+  },
+  "Skills": {
+    "1": "Skills"
+  },
+  "Projects": {
+    "1": "Projects"
+  },
+  "Contact": {
+    "1": "Contact"
+  },
+  "Content1": {
+    "1": "Hi, I am Bakhrom Olimkhujaev"
+  },
+  "Content2": {
+    "1": "I am a full-stack web&mobile developer and UI/UX javascript specialist."
+  },
+  "Explore": {
+    "1": "Explore"
+  },
+  "MyServices": {
+    "1": "My services"
+  },
+  "Services1": {
+    "1": "Below is what I can offer you currently"
+  },
+  "Webdevelopment": {
+    "1": "Web development"
+  },
+  "Webdevelopment1": {
+    "1": "I like to code things from scratch, and enjoy bringing ideas to life in the browser."
+  },
+  "WebDesign": {
+    "1": "Web Design"
+  },
+  "WebDesign1": {
+    "1": "I value simple content structure, clean design patterns, and thoughtful interactions."
+  },
+  "Mobileapps": {
+    "1": "Mobile apps"
+  },
+  "Mobileapps1": {
+    "1": "Every business has unique problems that can be fixed with the right software solution. I personally believe that software should be intuitive, simple, and should solve these business problems. I strive to build the best possible solutions to my clients problems."
+  },
+  "Skills1": {
+    "1": "Here is what I know"
+  },
+  "Projects1": {
+    "1": "Project samples"
+  },
+  "Hint1": {
+    "1": "Hint: You can filter by a stack"
+  },
+  "Contact1": {
+    "1": "Contact info"
+  },
+  "Contact2": {
+    "1": "Contact Form"
+  },
+  "Hint2": {
+    "1": "Fill up the form and I will get back to you jn 72 hours.(If you want to contact quickly send me DM at Telegram @bakhr0mkhan)"
+  },
+  "Submit": {
+    "1": "Submit"
+  },
+  "FirstName": {
+    "1": "First Name"
+  },
+  "LastName": {
+    "1": "Last Name"
+  },
+  "Message": {
+    "1": "Message"
+  },
+  "Success": {
+    "1": "Success"
+  },
+  "Project1": {
+    "1": "Admin website for ecommerce"
+  },
+  "Project2": {
+    "1": "Home share mobile app"
+  },
+  "Project3": {
+    "1": "Furniture store website"
+  },
+  "Project4": {
+    "1": "Restaurant website"
+  },
+  "TechStack": {
+    "1": "Tech stack"
+  },
+  "Visit": {
+    "1": "Visit"
+  },
+  "p1desc": {
+    "1": "Fully functional, multilanguage website for admin and sellers to manage an online store. Thanks to the privacy reasons code is not to be shown"
+  },
+  "p2desc": {
+    "1": "Fully functional app built-in React Native which lets users to search&post houses. Thanks to the privacy reasons code is not to be shown. However you can download the app soon"
+  },
+  "p3desc": {
+    "1": "Landing page for furniture store. Feel free to use template"
+  },
+  "p4desc": {
+    "1": "Landing page for any restaurant store. Feel free to use template"
+  }
+}
